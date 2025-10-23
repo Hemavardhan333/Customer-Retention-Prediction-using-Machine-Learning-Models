@@ -1,1 +1,1 @@
-# Customer-Retention-Prediction-using-Machine-Learning-Models
+# bank_customer_churn_prediction
